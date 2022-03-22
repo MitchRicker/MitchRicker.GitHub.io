@@ -36,7 +36,7 @@ The professional services tasks I engaged in with our enterprise clients exposed
 
 To make sure everything was as efficient as possible while dealing with high volumes of data, I wrote scripts in Bash, Python and Perl to automate various support tasks.
 
-I became the Zmanda SME and was responsible for training and mentoring new team members. To make sure knowledge was as available as possible I maintained/audited the Zmanda knowledge base, administered a test/development VM lab offering GitLab, ADDS, Zmanda, Carbonite Server Backup and other services so team members could "play around" and developed the training materials to on-board new team members.
+I became the Zmanda SME and was responsible for training and mentoring new team members. To make sure knowledge was as available as possible I maintained/audited the Zmanda knowledge base, administered a test/development VM lab offering GitLab, ADDS, Zmanda, Carbonite Server Backup and other services so team members could "play around" in a structured environment. I also developed updated training materials to onboard new team members.
 
 #### Achievements:
 * My calls were played as examples of excellence to new-hires outside of the Zmanda team.
