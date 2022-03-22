@@ -4,12 +4,12 @@
 
 | Domain | Knowledge |
 |--------|----------|
-|Operating Systems  | `Windows: 7, 8(.1), 10, 11` `Windows Server: 2008, 2012, 2016` `CentOS / RHEL: 6, 7` `Solaris 10` `z/OS` `Arch` [^1]|
-|Monitoring Systems | `SolarWinds Orion` `Harris Vida` `Nagios Core`|
-|Virtualization | `Hyper-V` `Oracle VirtualBox` `VMWare` `VSphere 7`
+|Operating Systems  | `Windows: 7, 8(.1), 10, 11` `Windows Server: 2008, 2012, 2016` `CentOS / RHEL: 6, 7` `Solaris 10` `z/OS` `Arch` [^1] |
+|Monitoring Systems | `SolarWinds Orion` `Harris Vida` `Nagios Core` |
+|Virtualization | `Hyper-V` `Oracle VirtualBox` `VMWare` `VSphere 7` |
 |Backup | `Carbonite` `Backblaze` `Amanda/Zmanda` `rsync` |
-|Scripting| `Python3` `Bash` `PowerShell` `JavaScript`
-|Misc.| `HTML/Markdown` [^2] `KCS`
+|Scripting| `Python3` `Bash` `PowerShell` `JavaScript` |
+|Misc.| `HTML/Markdown` [^2] `KCS` |
 
 # Experience
 
@@ -21,6 +21,8 @@ I am very proud to have had the opportunity to serve our citizens while working 
 While monitoring the health and safety of the state network overnight I was also responsible for supporting the urgent support needs of our ~12,000 users, across multiple departments - each with their own unique set of applications and procedures.
 
 Because of this rich diversity, I was able to delve deep into the state systems learning as much as I could and sharing that knowledge with the rest of the MaineIT using KCS methodologies combined with SEO.
+
+In my downtime, to ensure the highest possible level of support efficeny, I wrote software in PowerShell to automate processes that were either slow and/or error-prone when performed manually.
 
 #### Achievements:
 * 100% Criminal Justice Information Services Level 4 Certification.
@@ -50,6 +52,7 @@ As a managed service provider for AT&T, Access World Wide offered a fast-paced, 
 
 After my first year, I was mentoring other agents as a "floor walker" in the call-center and providing content for the AT&T knowledge base. It was a pleasure to assist our customers in finding the best solution to their often complex and nuanced communications opportunities.
 
+#### Achievements:
 * Consistently over 85% positive customer service scores[^3].
 * Mentored an exceptional team of 20.
 
