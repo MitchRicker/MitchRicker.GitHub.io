@@ -56,6 +56,8 @@ After my first year, I was mentoring other agents as a "floor walker" in the cal
 * Consistently over 85% positive customer service scores[^3].
 * Mentored an exceptional team of 20.
 
+---
+
 [^1]: BTW.
 [^2]: This page is written in HTML/Markdown, rendered with Jekyll and the code can be found on [GitHub](https://github.com/MitchRicker/MitchRicker.github.io)
 [^3]: In a 1-5 star review system.
