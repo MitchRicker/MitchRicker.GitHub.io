@@ -20,7 +20,7 @@ I am very proud to have had the opportunity to serve our citizens while working 
 
 While monitoring the health and safety of the state network overnight I was also responsible for supporting the urgent support needs of our ~12,000 users, across multiple departments - each with their own unique set of applications and procedures.
 
-Because of this rich diversity, I was able to delve deep into the state systems learning as much as I could and sharing that knowledge with the rest of the MaineIT using KCS methodologies combined with SEO.
+Because of this rich diversity, I was able to delve deep into the state systems learning as much as I could and sharing that knowledge with the rest of the MaineIT team using KCS methodologies combined with SEO.
 
 In my downtime, to ensure the highest possible level of support efficeny, I wrote software in PowerShell to automate processes that were either slow and/or error-prone when performed manually.
 
